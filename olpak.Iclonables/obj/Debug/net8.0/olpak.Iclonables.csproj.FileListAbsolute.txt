@@ -1,0 +1,14 @@
+C:\Users\muham\source\repos\aplok\olpak.Iclonables\obj\Debug\net8.0\olpak.Iclonables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\aplok\olpak.Iclonables\obj\Debug\net8.0\olpak.Iclonables.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\aplok\olpak.Iclonables\obj\Debug\net8.0\olpak.Iclonables.AssemblyInfo.cs
+C:\Users\muham\source\repos\aplok\olpak.Iclonables\obj\Debug\net8.0\olpak.Iclonables.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\aplok\olpak.Iclonables\bin\Debug\net8.0\olpak.Iclonables.exe
+C:\Users\muham\source\repos\aplok\olpak.Iclonables\bin\Debug\net8.0\olpak.Iclonables.deps.json
+C:\Users\muham\source\repos\aplok\olpak.Iclonables\bin\Debug\net8.0\olpak.Iclonables.runtimeconfig.json
+C:\Users\muham\source\repos\aplok\olpak.Iclonables\bin\Debug\net8.0\olpak.Iclonables.dll
+C:\Users\muham\source\repos\aplok\olpak.Iclonables\bin\Debug\net8.0\olpak.Iclonables.pdb
+C:\Users\muham\source\repos\aplok\olpak.Iclonables\obj\Debug\net8.0\olpak.Iclonables.dll
+C:\Users\muham\source\repos\aplok\olpak.Iclonables\obj\Debug\net8.0\refint\olpak.Iclonables.dll
+C:\Users\muham\source\repos\aplok\olpak.Iclonables\obj\Debug\net8.0\olpak.Iclonables.pdb
+C:\Users\muham\source\repos\aplok\olpak.Iclonables\obj\Debug\net8.0\olpak.Iclonables.genruntimeconfig.cache
+C:\Users\muham\source\repos\aplok\olpak.Iclonables\obj\Debug\net8.0\ref\olpak.Iclonables.dll
