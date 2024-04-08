@@ -1,0 +1,14 @@
+C:\Users\muham\source\repos\aplok\olpak.Iformatable\bin\Debug\net8.0\olpak.Iformatable.exe
+C:\Users\muham\source\repos\aplok\olpak.Iformatable\bin\Debug\net8.0\olpak.Iformatable.deps.json
+C:\Users\muham\source\repos\aplok\olpak.Iformatable\bin\Debug\net8.0\olpak.Iformatable.runtimeconfig.json
+C:\Users\muham\source\repos\aplok\olpak.Iformatable\bin\Debug\net8.0\olpak.Iformatable.dll
+C:\Users\muham\source\repos\aplok\olpak.Iformatable\bin\Debug\net8.0\olpak.Iformatable.pdb
+C:\Users\muham\source\repos\aplok\olpak.Iformatable\obj\Debug\net8.0\olpak.Iformatable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\aplok\olpak.Iformatable\obj\Debug\net8.0\olpak.Iformatable.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\aplok\olpak.Iformatable\obj\Debug\net8.0\olpak.Iformatable.AssemblyInfo.cs
+C:\Users\muham\source\repos\aplok\olpak.Iformatable\obj\Debug\net8.0\olpak.Iformatable.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\aplok\olpak.Iformatable\obj\Debug\net8.0\olpak.Iformatable.dll
+C:\Users\muham\source\repos\aplok\olpak.Iformatable\obj\Debug\net8.0\refint\olpak.Iformatable.dll
+C:\Users\muham\source\repos\aplok\olpak.Iformatable\obj\Debug\net8.0\olpak.Iformatable.pdb
+C:\Users\muham\source\repos\aplok\olpak.Iformatable\obj\Debug\net8.0\olpak.Iformatable.genruntimeconfig.cache
+C:\Users\muham\source\repos\aplok\olpak.Iformatable\obj\Debug\net8.0\ref\olpak.Iformatable.dll
