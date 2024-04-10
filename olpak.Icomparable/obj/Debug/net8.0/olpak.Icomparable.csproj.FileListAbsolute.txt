@@ -1,0 +1,14 @@
+C:\Users\muham\source\repos\aplok\olpak.Icomparable\bin\Debug\net8.0\olpak.Icomparable.exe
+C:\Users\muham\source\repos\aplok\olpak.Icomparable\bin\Debug\net8.0\olpak.Icomparable.deps.json
+C:\Users\muham\source\repos\aplok\olpak.Icomparable\bin\Debug\net8.0\olpak.Icomparable.runtimeconfig.json
+C:\Users\muham\source\repos\aplok\olpak.Icomparable\bin\Debug\net8.0\olpak.Icomparable.dll
+C:\Users\muham\source\repos\aplok\olpak.Icomparable\bin\Debug\net8.0\olpak.Icomparable.pdb
+C:\Users\muham\source\repos\aplok\olpak.Icomparable\obj\Debug\net8.0\olpak.Icomparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\aplok\olpak.Icomparable\obj\Debug\net8.0\olpak.Icomparable.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\aplok\olpak.Icomparable\obj\Debug\net8.0\olpak.Icomparable.AssemblyInfo.cs
+C:\Users\muham\source\repos\aplok\olpak.Icomparable\obj\Debug\net8.0\olpak.Icomparable.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\aplok\olpak.Icomparable\obj\Debug\net8.0\olpak.Icomparable.dll
+C:\Users\muham\source\repos\aplok\olpak.Icomparable\obj\Debug\net8.0\refint\olpak.Icomparable.dll
+C:\Users\muham\source\repos\aplok\olpak.Icomparable\obj\Debug\net8.0\olpak.Icomparable.pdb
+C:\Users\muham\source\repos\aplok\olpak.Icomparable\obj\Debug\net8.0\olpak.Icomparable.genruntimeconfig.cache
+C:\Users\muham\source\repos\aplok\olpak.Icomparable\obj\Debug\net8.0\ref\olpak.Icomparable.dll
