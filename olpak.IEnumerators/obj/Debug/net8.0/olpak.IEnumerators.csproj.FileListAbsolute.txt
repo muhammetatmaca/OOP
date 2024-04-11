@@ -1,0 +1,14 @@
+C:\Users\muham\source\repos\aplok\olpak.IEnumerators\bin\Debug\net8.0\olpak.IEnumerators.exe
+C:\Users\muham\source\repos\aplok\olpak.IEnumerators\bin\Debug\net8.0\olpak.IEnumerators.deps.json
+C:\Users\muham\source\repos\aplok\olpak.IEnumerators\bin\Debug\net8.0\olpak.IEnumerators.runtimeconfig.json
+C:\Users\muham\source\repos\aplok\olpak.IEnumerators\bin\Debug\net8.0\olpak.IEnumerators.dll
+C:\Users\muham\source\repos\aplok\olpak.IEnumerators\bin\Debug\net8.0\olpak.IEnumerators.pdb
+C:\Users\muham\source\repos\aplok\olpak.IEnumerators\obj\Debug\net8.0\olpak.IEnumerators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\source\repos\aplok\olpak.IEnumerators\obj\Debug\net8.0\olpak.IEnumerators.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\aplok\olpak.IEnumerators\obj\Debug\net8.0\olpak.IEnumerators.AssemblyInfo.cs
+C:\Users\muham\source\repos\aplok\olpak.IEnumerators\obj\Debug\net8.0\olpak.IEnumerators.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\aplok\olpak.IEnumerators\obj\Debug\net8.0\olpak.IEnumerators.dll
+C:\Users\muham\source\repos\aplok\olpak.IEnumerators\obj\Debug\net8.0\refint\olpak.IEnumerators.dll
+C:\Users\muham\source\repos\aplok\olpak.IEnumerators\obj\Debug\net8.0\olpak.IEnumerators.pdb
+C:\Users\muham\source\repos\aplok\olpak.IEnumerators\obj\Debug\net8.0\olpak.IEnumerators.genruntimeconfig.cache
+C:\Users\muham\source\repos\aplok\olpak.IEnumerators\obj\Debug\net8.0\ref\olpak.IEnumerators.dll
