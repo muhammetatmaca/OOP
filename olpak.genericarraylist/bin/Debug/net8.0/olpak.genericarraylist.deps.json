@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "olpak.genericarraylist/1.0.0": {
+        "runtime": {
+          "olpak.genericarraylist.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "olpak.genericarraylist/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
